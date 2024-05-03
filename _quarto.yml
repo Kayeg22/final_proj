@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Hampton Institute Indian Program 1878-1923"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: workspace1.2.qmd
+        
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
